@@ -7,7 +7,7 @@ function vt_baglan()
 {
 //BAĞLANTI
 $kullaniciadi="soyum_sopum";
-$sifre= "3141";
+$sifre= "password";
 $host="localhost";
 $veritabani="soyum_sopum";
 	 
