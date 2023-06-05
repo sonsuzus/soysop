@@ -125,7 +125,7 @@ window.location="yonetim.php?uye="+id;
        	  <p>
             <?php
 			
-		if($_POST["sifre"]=="3141")
+		if($_POST["sifre"]=="pass")
 		{
 			$sifre = $_POST["sifre"];
 			setcookie("Sifre", $sifre);
@@ -145,7 +145,7 @@ window.location="yonetim.php?uye="+id;
             </form></p>
             
           
- <?php if($_COOKIE["Sifre"]=="3141")
+ <?php if($_COOKIE["Sifre"]=="pass")
  {
  
  include("yonet.php"); 
