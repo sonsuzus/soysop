@@ -1,0 +1,315 @@
+/* CSS Document */
+
+#apDiv1 {
+	position:absolute;
+	width:180px;
+	height:24px;
+	z-index:1;
+	left: 463px;
+	top: 630px;
+	text-align: center;
+}
+
+
+#apDiv10 {
+	position:absolute;
+	width:180px;
+	height:24px;
+	z-index:1;
+	left: 563px;
+	top: 687px;
+	text-align: center;
+}
+
+#apDiv11 {
+	position:absolute;
+	width:180px;
+	height:24px;
+	z-index:1;
+	left: 278px;
+	top: 545px;
+	text-align: center;
+}
+
+#apDiv12 {
+	position:absolute;
+	width:180px;
+	height:24px;
+	z-index:1;
+	left: 640px;
+	top: 544px;
+	text-align: center;
+}
+#apDiv111 {
+	position:absolute;
+	width:120px;
+	height:24px;
+	z-index:1;
+	left: 240px;
+	top: 456px;
+	text-align: center;
+}
+
+#apDiv112 {
+	position:absolute;
+	width:120px;
+	height:24px;
+	z-index:1;
+	left: 409px;
+	top: 470px;
+	text-align: center;
+}
+#apDiv121 {
+	position:absolute;
+	width:120px;
+	height:24px;
+	z-index:1;
+	left: 582px;
+	top: 454px;
+	text-align: center;
+}
+
+#apDiv122 {
+	position:absolute;
+	width:120px;
+	height:24px;
+	z-index:1;
+	left: 751px;
+	top: 474px;
+	text-align: center;
+}
+#apDiv1111 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 221px;
+	top: 352px;
+	text-align: center;
+}
+
+#apDiv1112 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 324px;
+	top: 368px;
+	text-align: center;
+}
+#apDiv1121 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 399px;
+	top: 365px;
+	text-align: center;
+}
+
+#apDiv1122 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 500px;
+	top: 378px;
+	text-align: center;
+}
+#apDiv1211 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 561px;
+	top: 352px;
+	text-align: center;
+}
+
+#apDiv1212 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 664px;
+	top: 369px;
+	text-align: center;
+}
+#apDiv1221 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 729px;
+	top: 372px;
+	text-align: center;
+}
+
+#apDiv1222 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 835px;
+	top: 394px;
+	text-align: center;
+}
+
+#apDiv11111 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 217px;
+	top: 252px;
+	text-align: center;
+}
+
+#apDiv11112 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 252px;
+	top: 274px;
+	text-align: center;
+}
+
+#apDiv11211 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 389px;
+	top: 258px;
+	text-align: center;
+}
+
+#apDiv11212 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 418px;
+	top: 280px;
+	text-align: center;
+}
+
+#apDiv11121 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 308px;
+	top: 270px;
+	text-align: center;
+}
+
+#apDiv11122 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 344px;
+	top: 294px;
+	text-align: center;
+}
+
+#apDiv12211 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 718px;
+	top: 271px;
+	text-align: center;
+}
+
+#apDiv12212 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 751px;
+	top: 292px;
+	text-align: center;
+}
+
+#apDiv12111 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 550px;
+	top: 255px;
+	text-align: center;
+}
+
+#apDiv12112 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 587px;
+	top: 278px;
+	text-align: center;
+}
+
+#apDiv12121 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 652px;
+	top: 271px;
+	text-align: center;
+}
+
+#apDiv12122 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 685px;
+	top: 297px;
+	text-align: center;
+}
+
+#apDiv11221 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 478px;
+	top: 277px;
+	text-align: center;
+}
+#apDiv11222 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 509px;
+	top: 295px;
+	text-align: center;
+}
+
+#apDiv12221 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 810px;
+	top: 286px;
+	text-align: center;
+}
+
+#apDiv12222 {
+	position:absolute;
+	width:60px;
+	height:24px;
+	z-index:1;
+	left: 846px;
+	top: 310px;
+	text-align: center;
+}
